@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "沈丁花",
+  "base_artist": "DISH//",
+  "createdAt": "2026-01-12T04:17:16.277249Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "沈丁花",
+      "artist": "Sayuri Ishikawa",
+      "has_synced": true,
+      "path": "select/01_沈丁花_Sayuri_Ishikawa.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "沈丁花",
+      "artist": "LOCAL CONNECT",
+      "has_synced": true,
+      "path": "select/02_沈丁花_LOCAL_CONNECT.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "沈丁花  Jinjouge",
+      "artist": "石川さゆり",
+      "has_synced": true,
+      "path": "select/03_沈丁花_Jinjouge_石川さゆり.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "沈丁花",
+      "artist": "DISH//",
+      "has_synced": false,
+      "path": "select/pl_01_沈丁花_DISH.txt"
+    }
+  ]
+}
